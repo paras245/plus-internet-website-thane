@@ -26,6 +26,7 @@ import { PlanSpeedMeter } from '../components/PlanSpeedMeter';
 import { CustomerTestimonials } from '../components/CustomerTestimonials';
 import { HomeFAQ } from '../components/HomeFAQ';
 import { ShopLocationMap } from '../components/ShopLocationMap';
+import { BrandPartnersStrip } from '../components/BrandPartnersStrip';
 import { WhatsAppIcon } from '../components/WhatsAppIcon';
 import { useSEO } from '../hooks/useSEO';
 
@@ -179,6 +180,10 @@ export const HomePage: React.FC = () => {
 
       {/* 4. INTERACTIVE HARDWARE SHOWCASE */}
       <GlassShowcase />
+
+
+      {/* 4.5 HARDWARE BRANDS & INDUSTRY PARTNERS STRIP */}
+      <BrandPartnersStrip />
 
 
       {/* 5. FEATURED PRODUCTS CATALOG */}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+  <!-- CP PLUS Red Target/Shield Icon -->
+  <g transform="translate(6, 10)">
+    <circle cx="14" cy="14" r="12" fill="#E31B23"/>
+    <circle cx="14" cy="14" r="7" stroke="white" stroke-width="2"/>
+    <circle cx="14" cy="14" r="2.5" fill="white"/>
+  </g>
+  <!-- Wordmark 'CP PLUS' -->
+  <text x="44" y="28" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="900" letter-spacing="0.5px" fill="#24252B">CP</text>
+  <text x="75" y="28" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="900" letter-spacing="0.5px" fill="#E31B23">PLUS</text>
+  <text x="130" y="20" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" font-weight="700" fill="#737782">®</text>
+</svg>
