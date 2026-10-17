@@ -11,7 +11,7 @@ export const GlassShowcase: React.FC = () => {
     wifi: {
       title: "Gigabit Wi-Fi 6 & Multi-Node Mesh",
       subtitle: "Ultra-low latency wireless architecture for modern Thane homes and executive offices.",
-      image: "/src/assets/images/product_wifi_router_1792171253044.jpg",
+      image: "/images/product_wifi_router_1792171253044.jpg",
       metrics: [
         { label: "Target Coverage", value: "Up to 3,500 sq. ft." },
         { label: "Bandwidth Class", value: "Gigabit OFDMA" },
@@ -22,7 +22,7 @@ export const GlassShowcase: React.FC = () => {
     cctv: {
       title: "Commercial IP Surveillance Systems",
       subtitle: "High-definition PoE dome and bullet cameras with night vision and remote phone monitoring.",
-      image: "/src/assets/images/product_cctv_camera_1792171253771.jpg",
+      image: "/images/product_cctv_camera_1792171253771.jpg",
       metrics: [
         { label: "Night Vision", value: "Smart IR 30m" },
         { label: "Resolution", value: "Full HD / 4MP" },
@@ -33,7 +33,7 @@ export const GlassShowcase: React.FC = () => {
     switching: {
       title: "High-Density PoE+ Network Switching",
       subtitle: "Reliable distribution backbone for access points, security cameras, and workstation LANs.",
-      image: "/src/assets/images/product_network_switch_1792171253982.jpg",
+      image: "/images/product_network_switch_1792171253982.jpg",
       metrics: [
         { label: "Switching Fabric", value: "52 Gbps" },
         { label: "Power over Ethernet", value: "802.3at PoE+" },

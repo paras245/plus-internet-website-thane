@@ -42,12 +42,12 @@ export const PRODUCTS: Product[] = [
     fullDescription: 'Engineered for dense device environments, this dual-band Wi-Fi 6 router delivers blazing wireless speeds up to 3000 Mbps with OFDMA and MU-MIMO technology. Ideal for 2BHK/3BHK flats, duplexes, and small office spaces in Thane. Comes with gigabit WAN and 4 gigabit LAN ports.',
     priceLabel: 'Price on Request',
     availability: 'Available / Ready to Configure',
-    mainImage: '/src/assets/images/product_wifi_router_1792171253044.jpg',
+    mainImage: '/images/product_wifi_router_1792171253044.jpg',
     thumbnails: [
-      '/src/assets/images/product_wifi_router_1792171253044.jpg',
-      '/src/assets/images/hero_technician_fiber_1792172707801.jpg',
-      '/src/assets/images/hero_networking_setup_1792171252724.jpg',
-      '/src/assets/images/product_mesh_wifi_node_1792172707311.jpg'
+      '/images/product_wifi_router_1792171253044.jpg',
+      '/images/hero_technician_fiber_1792172707801.jpg',
+      '/images/hero_networking_setup_1792171252724.jpg',
+      '/images/product_mesh_wifi_node_1792172707311.jpg'
     ],
     specifications: {
       'Wi-Fi Standard': 'Wi-Fi 6 (802.11ax/ac/n/g/b/a)',
@@ -69,12 +69,12 @@ export const PRODUCTS: Product[] = [
     fullDescription: 'Say goodbye to Wi-Fi dead spots. This mesh Wi-Fi system creates a unified network under a single SSID with seamless roaming between rooms and floors. Designed for larger residential flats, bungalows, and retail premises in Thane.',
     priceLabel: 'Price on Request',
     availability: 'Available on Order',
-    mainImage: '/src/assets/images/product_mesh_wifi_node_1792172707311.jpg',
+    mainImage: '/images/product_mesh_wifi_node_1792172707311.jpg',
     thumbnails: [
-      '/src/assets/images/product_mesh_wifi_node_1792172707311.jpg',
-      '/src/assets/images/hero_networking_setup_1792171252724.jpg',
-      '/src/assets/images/product_wifi_router_1792171253044.jpg',
-      '/src/assets/images/hero_technician_fiber_1792172707801.jpg'
+      '/images/product_mesh_wifi_node_1792172707311.jpg',
+      '/images/hero_networking_setup_1792171252724.jpg',
+      '/images/product_wifi_router_1792171253044.jpg',
+      '/images/hero_technician_fiber_1792172707801.jpg'
     ],
     specifications: {
       'Coverage Area': 'Up to 3,500 – 4,500 sq. ft. with multi-pack',
@@ -95,12 +95,12 @@ export const PRODUCTS: Product[] = [
     fullDescription: 'Heavy-duty 24-port Gigabit Ethernet switch equipped with IEEE 802.3at/af PoE+ capability. Built with a rugged metal chassis, intelligent power budget management, and SFP uplink slots. Ideal for commercial offices, clinics, housing societies, and retail establishments in Thane.',
     priceLabel: 'Price on Request',
     availability: 'Available / Ready for Deployment',
-    mainImage: '/src/assets/images/product_network_switch_1792171253982.jpg',
+    mainImage: '/images/product_network_switch_1792171253982.jpg',
     thumbnails: [
-      '/src/assets/images/product_network_switch_1792171253982.jpg',
-      '/src/assets/images/hero_office_server_rack_1792172708567.jpg',
-      '/src/assets/images/product_cctv_camera_1792171253771.jpg',
-      '/src/assets/images/hero_technician_fiber_1792172707801.jpg'
+      '/images/product_network_switch_1792171253982.jpg',
+      '/images/hero_office_server_rack_1792172708567.jpg',
+      '/images/product_cctv_camera_1792171253771.jpg',
+      '/images/hero_technician_fiber_1792172707801.jpg'
     ],
     specifications: {
       'Total Ports': '24x 10/100/1000 Mbps RJ45 + 2x Gigabit SFP Slots',
@@ -121,12 +121,12 @@ export const PRODUCTS: Product[] = [
     fullDescription: 'Easily expand your wired network to computers, NAS drives, smart TVs, and gaming consoles. Fanless silent design with sturdy metal casing and auto-negotiation MDI/MDIX on all ports.',
     priceLabel: 'Price on Request',
     availability: 'In Stock',
-    mainImage: '/src/assets/images/product_network_switch_1792171253982.jpg',
+    mainImage: '/images/product_network_switch_1792171253982.jpg',
     thumbnails: [
-      '/src/assets/images/product_network_switch_1792171253982.jpg',
-      '/src/assets/images/hero_office_server_rack_1792172708567.jpg',
-      '/src/assets/images/hero_networking_setup_1792171252724.jpg',
-      '/src/assets/images/hero_technician_fiber_1792172707801.jpg'
+      '/images/product_network_switch_1792171253982.jpg',
+      '/images/hero_office_server_rack_1792172708567.jpg',
+      '/images/hero_networking_setup_1792171252724.jpg',
+      '/images/hero_technician_fiber_1792172707801.jpg'
     ],
     specifications: {
       'Ports': '8x 10/100/1000 Mbps Gigabit Ports',
@@ -147,12 +147,12 @@ export const PRODUCTS: Product[] = [
     fullDescription: 'Professional grade IP surveillance camera designed for crystal-clear 24/7 video recording. Features smart infrared night vision, weather resistance, and PoE support for single-cable data and power delivery. Ideal for apartment lobbies, stores, and office entrances in Thane.',
     priceLabel: 'Price on Request',
     availability: 'In Stock / Installation Available',
-    mainImage: '/src/assets/images/product_cctv_camera_1792171253771.jpg',
+    mainImage: '/images/product_cctv_camera_1792171253771.jpg',
     thumbnails: [
-      '/src/assets/images/product_cctv_camera_1792171253771.jpg',
-      '/src/assets/images/product_cctv_bullet_1792172707540.jpg',
-      '/src/assets/images/product_network_switch_1792171253982.jpg',
-      '/src/assets/images/hero_office_server_rack_1792172708567.jpg'
+      '/images/product_cctv_camera_1792171253771.jpg',
+      '/images/product_cctv_bullet_1792172707540.jpg',
+      '/images/product_network_switch_1792171253982.jpg',
+      '/images/hero_office_server_rack_1792172708567.jpg'
     ],
     specifications: {
       'Sensor': 'High-Definition CMOS Sensor',
@@ -173,12 +173,12 @@ export const PRODUCTS: Product[] = [
     fullDescription: 'Designed for residential society perimeters, parking lots, and commercial building gates. Provides sharp video day and night with enhanced weather sealing to withstand Mumbai monsoons.',
     priceLabel: 'Price on Request',
     availability: 'Available on Order',
-    mainImage: '/src/assets/images/product_cctv_bullet_1792172707540.jpg',
+    mainImage: '/images/product_cctv_bullet_1792172707540.jpg',
     thumbnails: [
-      '/src/assets/images/product_cctv_bullet_1792172707540.jpg',
-      '/src/assets/images/product_cctv_camera_1792171253771.jpg',
-      '/src/assets/images/product_network_switch_1792171253982.jpg',
-      '/src/assets/images/hero_office_server_rack_1792172708567.jpg'
+      '/images/product_cctv_bullet_1792172707540.jpg',
+      '/images/product_cctv_camera_1792171253771.jpg',
+      '/images/product_network_switch_1792171253982.jpg',
+      '/images/hero_office_server_rack_1792172708567.jpg'
     ],
     specifications: {
       'Resolution': '1080p / 4MP options',
@@ -199,12 +199,12 @@ export const PRODUCTS: Product[] = [
     fullDescription: 'Reliable, low-interference networking cable suitable for structured building installations, connecting switches, Wi-Fi access points, and CCTV cameras. Low crosstalk with central spline separator.',
     priceLabel: 'Price on Request',
     availability: 'Available by Length / Full Drum (305m)',
-    mainImage: '/src/assets/images/hero_office_server_rack_1792172708567.jpg',
+    mainImage: '/images/hero_office_server_rack_1792172708567.jpg',
     thumbnails: [
-      '/src/assets/images/hero_office_server_rack_1792172708567.jpg',
-      '/src/assets/images/product_network_switch_1792171253982.jpg',
-      '/src/assets/images/hero_technician_fiber_1792172707801.jpg',
-      '/src/assets/images/hero_networking_setup_1792171252724.jpg'
+      '/images/hero_office_server_rack_1792172708567.jpg',
+      '/images/product_network_switch_1792171253982.jpg',
+      '/images/hero_technician_fiber_1792172707801.jpg',
+      '/images/hero_networking_setup_1792171252724.jpg'
     ],
     specifications: {
       'Conductor': '23 AWG Solid Bare Copper',
@@ -225,12 +225,12 @@ export const PRODUCTS: Product[] = [
     fullDescription: 'High quality gold-plated pins ensure minimal signal degradation and corrosion resistance. Available in multiple lengths (1m, 2m, 3m, 5m, 10m) with molded strain-relief boots.',
     priceLabel: 'Price on Request',
     availability: 'In Stock',
-    mainImage: '/src/assets/images/product_network_switch_1792171253982.jpg',
+    mainImage: '/images/product_network_switch_1792171253982.jpg',
     thumbnails: [
-      '/src/assets/images/product_network_switch_1792171253982.jpg',
-      '/src/assets/images/hero_office_server_rack_1792172708567.jpg',
-      '/src/assets/images/hero_technician_fiber_1792172707801.jpg',
-      '/src/assets/images/product_wifi_router_1792171253044.jpg'
+      '/images/product_network_switch_1792171253982.jpg',
+      '/images/hero_office_server_rack_1792172708567.jpg',
+      '/images/hero_technician_fiber_1792172707801.jpg',
+      '/images/product_wifi_router_1792171253044.jpg'
     ],
     specifications: {
       'Contact Plating': '50 Micron Gold Plating',
@@ -250,12 +250,12 @@ export const PRODUCTS: Product[] = [
     fullDescription: 'Keep your routers, NVRs, network switches, and power supplies securely locked, cooled, and organized. Features powder-coated cold-rolled steel, cable entry punch-outs, and earthing provisions.',
     priceLabel: 'Price on Request',
     availability: 'Available / Custom Sizing on Request',
-    mainImage: '/src/assets/images/hero_office_server_rack_1792172708567.jpg',
+    mainImage: '/images/hero_office_server_rack_1792172708567.jpg',
     thumbnails: [
-      '/src/assets/images/hero_office_server_rack_1792172708567.jpg',
-      '/src/assets/images/product_network_switch_1792171253982.jpg',
-      '/src/assets/images/hero_technician_fiber_1792172707801.jpg',
-      '/src/assets/images/product_cctv_camera_1792171253771.jpg'
+      '/images/hero_office_server_rack_1792172708567.jpg',
+      '/images/product_network_switch_1792171253982.jpg',
+      '/images/hero_technician_fiber_1792172707801.jpg',
+      '/images/product_cctv_camera_1792171253771.jpg'
     ],
     specifications: {
       'Rack Sizes': '4U, 6U, 9U, 12U wall-mount / larger floor units',
@@ -276,12 +276,12 @@ export const PRODUCTS: Product[] = [
     fullDescription: 'Essential for clean, manageable structured cabling in corporate offices and commercial facilities. Color-coded 110/Krone IDC termination blocks with rear cable tie management bar.',
     priceLabel: 'Price on Request',
     availability: 'Available on Order',
-    mainImage: '/src/assets/images/hero_office_server_rack_1792172708567.jpg',
+    mainImage: '/images/hero_office_server_rack_1792172708567.jpg',
     thumbnails: [
-      '/src/assets/images/hero_office_server_rack_1792172708567.jpg',
-      '/src/assets/images/product_network_switch_1792171253982.jpg',
-      '/src/assets/images/hero_technician_fiber_1792172707801.jpg',
-      '/src/assets/images/product_mesh_wifi_node_1792172707311.jpg'
+      '/images/hero_office_server_rack_1792172708567.jpg',
+      '/images/product_network_switch_1792171253982.jpg',
+      '/images/hero_technician_fiber_1792172707801.jpg',
+      '/images/product_mesh_wifi_node_1792172707311.jpg'
     ],
     specifications: {
       'Port Count': '24-Port 1U 19-inch rack unit',

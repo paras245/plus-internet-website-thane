@@ -17,8 +17,8 @@ export const SAMPLE_PROJECTS: ProjectItem[] = [
     equipmentUsed: "Dual-Band Wi-Fi 6 Mesh Nodes & Cat6 Backhaul",
     description: "Eliminated dead spots in a 3BHK high-rise apartment by installing dual mesh nodes connected via concealed Ethernet backhaul, ensuring uniform signal in all bedrooms and balcony work area.",
     images: [
-      "/src/assets/images/hero_networking_setup_1792171252724.jpg",
-      "/src/assets/images/product_wifi_router_1792171253044.jpg"
+      "/images/hero_networking_setup_1792171252724.jpg",
+      "/images/product_wifi_router_1792171253044.jpg"
     ]
   },
   {
@@ -29,8 +29,8 @@ export const SAMPLE_PROJECTS: ProjectItem[] = [
     equipmentUsed: "24-Port Gigabit Switch, 6U Wall Rack & Cat6 Cable",
     description: "Deployed clean structured cabling from a 6U wall server rack to individual employee desks with faceplate termination and dual-SSID office wireless for staff and visitors.",
     images: [
-      "/src/assets/images/product_network_switch_1792171253982.jpg",
-      "/src/assets/images/hero_networking_setup_1792171252724.jpg"
+      "/images/product_network_switch_1792171253982.jpg",
+      "/images/hero_networking_setup_1792171252724.jpg"
     ]
   },
   {
@@ -41,8 +41,8 @@ export const SAMPLE_PROJECTS: ProjectItem[] = [
     equipmentUsed: "4x High-Definition IP Dome Cameras, 8-Port PoE Switch & NVR",
     description: "Installed ceiling dome cameras covering the cash counter, display racks, and customer entryway, configured with 30-day continuous recording and secure smartphone remote monitoring.",
     images: [
-      "/src/assets/images/product_cctv_camera_1792171253771.jpg",
-      "/src/assets/images/product_network_switch_1792171253982.jpg"
+      "/images/product_cctv_camera_1792171253771.jpg",
+      "/images/product_network_switch_1792171253982.jpg"
     ]
   },
   {
@@ -53,8 +53,8 @@ export const SAMPLE_PROJECTS: ProjectItem[] = [
     equipmentUsed: "Gigabit Dual-Band Router & 8-Port Metal Switch",
     description: "Set up isolated network lines for patient reception, doctor consulting rooms, and billing systems with zero signal drops.",
     images: [
-      "/src/assets/images/product_wifi_router_1792171253044.jpg",
-      "/src/assets/images/product_network_switch_1792171253982.jpg"
+      "/images/product_wifi_router_1792171253044.jpg",
+      "/images/product_network_switch_1792171253982.jpg"
     ]
   },
   {
@@ -65,8 +65,8 @@ export const SAMPLE_PROJECTS: ProjectItem[] = [
     equipmentUsed: "Cat6 Solid Copper Cable & Outdoor Conduit Raceways",
     description: "Concealed heavy-duty networking cabling linking security gate cameras and reception desk to the central network cabinet.",
     images: [
-      "/src/assets/images/product_network_switch_1792171253982.jpg",
-      "/src/assets/images/product_cctv_camera_1792171253771.jpg"
+      "/images/product_network_switch_1792171253982.jpg",
+      "/images/product_cctv_camera_1792171253771.jpg"
     ]
   }
 ];

@@ -24,7 +24,7 @@ export interface FullHeroSlide {
 export const HERO_HATHWAY_SLIDES: FullHeroSlide[] = [
   {
     id: 'family-wifi',
-    image: '/src/assets/images/hero_family_fiber_wifi_1792177571218.jpg',
+    image: '/images/hero_family_fiber_wifi_1792177571218.jpg',
     alt: 'Happy family in Thane living room using high-speed optical fiber internet',
     badgeKicker: 'LIMITED TIME THANE FESTIVE OFFER',
     goldenHeadline: 'FREE TO USE*',
@@ -35,7 +35,7 @@ export const HERO_HATHWAY_SLIDES: FullHeroSlide[] = [
   },
   {
     id: 'gigabit-speed',
-    image: '/src/assets/images/hero_networking_setup_1792171252724.jpg',
+    image: '/images/hero_networking_setup_1792171252724.jpg',
     alt: 'High speed fiber broadband and smart connectivity in Thane residence',
     badgeKicker: 'ULTRA HIGH SPEED FIBER',
     goldenHeadline: 'BLAZING 200 MBPS',
@@ -46,7 +46,7 @@ export const HERO_HATHWAY_SLIDES: FullHeroSlide[] = [
   },
   {
     id: 'technician-service',
-    image: '/src/assets/images/hero_technician_fiber_1792172707801.jpg',
+    image: '/images/hero_technician_fiber_1792172707801.jpg',
     alt: 'Certified Indian network technician testing fiber connection in Thane',
     badgeKicker: 'LOCAL ON-SITE ENGINEERING',
     goldenHeadline: 'PRECISION FIBER',
@@ -57,7 +57,7 @@ export const HERO_HATHWAY_SLIDES: FullHeroSlide[] = [
   },
   {
     id: 'office-rack',
-    image: '/src/assets/images/hero_office_server_rack_1792172708567.jpg',
+    image: '/images/hero_office_server_rack_1792172708567.jpg',
     alt: 'Corporate office server rack and structured LAN cabling in Thane',
     badgeKicker: 'ENTERPRISE & COMMERCIAL FIBER',
     goldenHeadline: 'GIGABIT SPEED',

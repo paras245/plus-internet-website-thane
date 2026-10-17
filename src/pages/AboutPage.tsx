@@ -75,7 +75,7 @@ export const AboutPage: React.FC = () => {
           <div className="lg:col-span-6">
             <div className="rounded-3xl overflow-hidden shadow-xl border border-[#E8E8EC] aspect-4/3 bg-[#F7F8FA]">
               <img
-                src="/src/assets/images/hero_networking_setup_1792171252724.jpg"
+                src="/images/hero_networking_setup_1792171252724.jpg"
                 alt="Plus Internet modern connectivity environment"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover"

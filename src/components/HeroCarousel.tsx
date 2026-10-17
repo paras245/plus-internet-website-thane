@@ -10,25 +10,25 @@ export interface CleanSlide {
 export const CLEAN_HERO_SLIDES: CleanSlide[] = [
   {
     id: 'home-fiber',
-    image: '/src/assets/images/hero_networking_setup_1792171252724.jpg',
+    image: '/images/hero_networking_setup_1792171252724.jpg',
     alt: 'High-speed optical fiber broadband and modern Wi-Fi in Thane residence',
     caption: 'High-Speed Optical Fiber Broadband & Home Wi-Fi'
   },
   {
     id: 'family-lifestyle',
-    image: '/src/assets/images/hero_family_fiber_wifi_1792177571218.jpg',
+    image: '/images/hero_family_fiber_wifi_1792177571218.jpg',
     alt: 'Happy family enjoying buffer-free high-speed fiber internet in Thane',
     caption: 'Zero-Buffering 4K Streaming & Multi-Device Family Wi-Fi'
   },
   {
     id: 'technician-setup',
-    image: '/src/assets/images/hero_technician_fiber_1792172707801.jpg',
+    image: '/images/hero_technician_fiber_1792172707801.jpg',
     alt: 'Professional network technician configuring optical fiber router on-site in Thane',
     caption: 'Professional On-Site Installation & Signal Tuning'
   },
   {
     id: 'office-rack',
-    image: '/src/assets/images/hero_office_server_rack_1792172708567.jpg',
+    image: '/images/hero_office_server_rack_1792172708567.jpg',
     alt: 'Organized corporate server rack cabinet with switches and Cat6 patch cabling',
     caption: 'Structured Office LAN Cabling & Commercial Racks'
   }
