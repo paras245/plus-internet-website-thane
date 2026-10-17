@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+  <!-- Schneider Electric Iconic Leaf Curve -->
+  <g transform="translate(6, 10)">
+    <rect x="2" y="2" width="24" height="24" rx="6" fill="#3DCD58"/>
+    <path d="M7 16c0-4 4-8 8-8 1.5 0 2.8.5 3.8 1.4-1.2.3-2.3 1-3 2-1 1.4-1.3 3.2-1.3 5 0 2 .5 3.8 1.5 5.2-3.8-.4-9-2.6-9-5.6z" fill="white"/>
+    <circle cx="19" cy="19" r="2.5" fill="white"/>
+  </g>
+  <!-- Wordmark 'Schneider' -->
+  <text x="44" y="24" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="800" fill="#24252B">Schneider</text>
+  <text x="44" y="34" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8.5" font-weight="600" letter-spacing="1px" fill="#3DCD58">ELECTRIC</text>
+</svg>

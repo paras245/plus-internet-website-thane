@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+  <!-- Dedicated Leased Line Telecom Icon -->
+  <g transform="translate(6, 10)">
+    <rect x="2" y="2" width="24" height="24" rx="6" fill="#1D1363"/>
+    <path d="M14 6v16M8 11h12M10 16h8M6 22h16" stroke="white" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="14" cy="5" r="2" fill="#F52619"/>
+  </g>
+  <!-- Wordmark 'LEASED LINE' -->
+  <text x="44" y="25" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="900" letter-spacing="0.5px" fill="#24252B">LEASED LINE</text>
+  <text x="44" y="35" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" font-weight="700" letter-spacing="1px" fill="#1D1363">DEDICATED CARRIER</text>
+</svg>

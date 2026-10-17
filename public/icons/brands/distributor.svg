@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+  <!-- Wholesalers & Distributors Icon -->
+  <g transform="translate(6, 10)">
+    <rect x="2" y="2" width="24" height="24" rx="6" fill="#0284C7"/>
+    <path d="M6 10l8-4 8 4-8 4-8-4z" stroke="white" stroke-width="1.8" fill="none"/>
+    <path d="M6 14l8 4 8-4M6 18l8 4 8-4" stroke="white" stroke-width="1.8"/>
+  </g>
+  <!-- Wordmark 'DISTRIBUTORS' -->
+  <text x="44" y="25" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="900" letter-spacing="0.5px" fill="#24252B">DISTRIBUTORS</text>
+  <text x="44" y="35" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" font-weight="700" letter-spacing="1px" fill="#0284C7">HARDWARE PROCUREMENT</text>
+</svg>
